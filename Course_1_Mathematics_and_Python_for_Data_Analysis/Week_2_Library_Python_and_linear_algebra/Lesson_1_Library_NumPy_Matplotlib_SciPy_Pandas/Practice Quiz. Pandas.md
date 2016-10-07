@@ -2,7 +2,7 @@
 	* ```frame.shape```
 2. Объект ```frame``` имеет тип ```pandas.DataFrame()```:
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+ | Name | Birth
+- | ------------ | -------------
+1 | Михаил Зайцев | 22.04.1976
+2 | Максим Королёв | 08.12.1993
