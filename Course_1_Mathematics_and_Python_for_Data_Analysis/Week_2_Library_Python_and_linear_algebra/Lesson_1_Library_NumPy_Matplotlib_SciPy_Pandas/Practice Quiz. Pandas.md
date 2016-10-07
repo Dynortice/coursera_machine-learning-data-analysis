@@ -2,6 +2,7 @@
 	* ```frame.shape```
 2. Объект ```frame``` имеет тип ```pandas.DataFrame()```:
 
-a | Name | Birth
---|---------------|-----------
-1 | Михаил Зайцев | 22.04.1976
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
