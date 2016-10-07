@@ -1,4 +1,4 @@
-Специализация #Машинное обучение и анализ данных
+Специализация Машинное обучение и анализ данных
 https://www.coursera.org/specializations/machine-learning-data-analysis
 
 1. Математика и Python для анализа данных
