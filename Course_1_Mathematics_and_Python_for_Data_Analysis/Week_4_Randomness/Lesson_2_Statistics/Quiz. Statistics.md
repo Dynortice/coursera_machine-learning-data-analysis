@@ -14,4 +14,4 @@
 6. Параметр распределения случайной величины X, такой, что X принимает значение меньше него с вероятностью не меньше α, а больше него — с вероятностью не меньше 1−α, называется:
   * Квантилем порядка α.
 7. Пусть график плотности распределения случайной величины X выглядит следующим образом:
-!(https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/y9W4EcQ1EeWUahLPevmjfw_f017010daf499ddf59ba0cf315c428c2___________.png?expiry=1476748800000&hmac=nZt65jgRHoBqNegLTpMKMAkC7h9xrgSDew5-2L_wKFQ)
+![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/y9W4EcQ1EeWUahLPevmjfw_f017010daf499ddf59ba0cf315c428c2___________.png?expiry=1476748800000&hmac=nZt65jgRHoBqNegLTpMKMAkC7h9xrgSDew5-2L_wKFQ)
