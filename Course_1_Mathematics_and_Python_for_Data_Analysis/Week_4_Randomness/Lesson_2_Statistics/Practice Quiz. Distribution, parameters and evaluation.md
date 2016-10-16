@@ -5,4 +5,4 @@
   * интерквартильный размах
   * среднеквадратическое отклонение
 3. Пусть график плотности распределения случайной величины X выглядит следующим образом:
-![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/sVT4mMptEeWZJwoBclRhvQ_e5eb31618802efc48d3b822da6dd0587___________.png)
+![x](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/sVT4mMptEeWZJwoBclRhvQ_e5eb31618802efc48d3b822da6dd0587___________.png?expiry=1476748800000&hmac=ID8u7vJuoPliefX-6lqz8WK87Iw20lScs75OUgJJHqg)
